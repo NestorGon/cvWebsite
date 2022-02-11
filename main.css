@@ -23,3 +23,12 @@
     background: rgba(75, 194, 197, 0.7);
     border-radius: 0px 50px 50px 0px;
 }
+
+#hobbies {
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150px;
+    letter-spacing: 0.5em;
+
+    color: #3B9A9C;
+}
