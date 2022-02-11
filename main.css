@@ -1,0 +1,25 @@
+.navbar {
+    background-color: #3B9A9C;
+}
+
+#navitem {
+    color: white;
+}
+
+.navbar span {
+    color: white;
+}
+
+#landing-text {
+    color: #3B9A9C;
+    font-weight: 500;
+}
+
+#arrow {
+    width: 100px;
+}
+
+#description {
+    background: rgba(75, 194, 197, 0.7);
+    border-radius: 0px 50px 50px 0px;
+}
