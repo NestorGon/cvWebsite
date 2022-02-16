@@ -2,14 +2,6 @@
     background-color: #3B9A9C;
 }
 
-#navitem {
-    color: white;
-}
-
-.navbar span {
-    color: white;
-}
-
 #landing-text {
     color: #3B9A9C;
     font-weight: 500;
@@ -24,11 +16,29 @@
     border-radius: 0px 50px 50px 0px;
 }
 
-#hobbies {
+#hobbies,#timeline {
     font-style: normal;
     font-weight: 500;
     line-height: 150px;
     letter-spacing: 0.5em;
 
     color: #3B9A9C;
+}
+
+#title {
+    color: #3B9A9C;
+    font-weight: 400;
+}
+
+#logo {
+    width: 20%;
+}
+
+#footer {
+    background-color: #3B9A9C;
+}
+
+#about-me,#timeline,#hobbies,#projects {
+    padding-top: 70px;
+    margin-top: -70px;
 }

@@ -1,16 +1,15 @@
-<a href="https://www.flaticon.es/iconos-gratis/correo" title="correo iconos">Correo iconos creados por Freepik - Flaticon</a>
-        <a href="https://www.flaticon.com/free-icons/bike" title="bike icons">Bike icons created by Flat Icons - Flaticon</a>
-        <a href="https://www.flaticon.com/free-icons/cooking" title="cooking icons">Cooking icons created by Freepik - Flaticon</a>
-        <a href="https://www.flaticon.com/free-icons/knitting" title="knitting icons">Knitting icons created by Smashicons - Flaticon</a>
-        <a href="https://www.flaticon.com/free-icons/music" title="music icons">Music icons created by Freepik - Flaticon</a>
-        <a href="https://www.flaticon.com/free-icons/break-dance" title="break dance icons">Break dance icons created by photo3idea_studio - Flaticon</a>
-        <a href="https://www.flaticon.com/free-icons/pacifier" title="pacifier icons">Pacifier icons created by Freepik - Flaticon</a>
-        <a href="https://www.flaticon.com/free-icons/school" title="school icons">School icons created by Freepik - Flaticon</a>
-        <a href="https://www.flaticon.com/free-icons/graduation-hat" title="graduation hat icons">Graduation hat icons created by nawicon - Flaticon</a>
-        <a href="https://www.flaticon.com/free-icons/iot" title="iot icons">Iot icons created by Freepik - Flaticon</a>
-        <a href="https://www.flaticon.com/free-icons/laptop" title="laptop icons">Laptop icons created by Freepik - Flaticon</a>
-        <a href="https://www.flaticon.com/free-icons/electrical-appliances" title="electrical appliances icons">Electrical appliances icons created by Freepik - Flaticon</a>
-        <a href="https://www.flaticon.com/free-icons/whatsapp" title="whatsapp icons">Whatsapp icons created by Swifticons - Flaticon</a>
-        <a href="https://www.flaticon.com/free-icons/github" title="github icons">Github icons created by pictogramer - Flaticon</a>
-        link video -> https://youtu.be/cDIVj-wxWIg
-        https://wa.me/573142650388
+href="https://www.flaticon.es/iconos-gratis/correo" title="correo iconos" Correo iconos creados por Freepik - Flaticon
+href="https://www.flaticon.com/free-icons/bike" title="bike icons" Bike icons created by Flat Icons - Flaticon
+href="https://www.flaticon.com/free-icons/cooking" title="cooking icons" Cooking icons created by Freepik - Flaticon
+href="https://www.flaticon.com/free-icons/knitting" title="knitting icons" Knitting icons created by Smashicons - Flaticon
+href="https://www.flaticon.com/free-icons/music" title="music icons" Music icons created by Freepik - Flaticon
+href="https://www.flaticon.com/free-icons/break-dance" title="break dance icons" Break dance icons created by photo3idea_studio - Flaticon
+href="https://www.flaticon.com/free-icons/pacifier" title="pacifier icons" Pacifier icons created by Freepik - Flaticon
+href="https://www.flaticon.com/free-icons/school" title="school icons" School icons created by Freepik - Flaticon
+href="https://www.flaticon.com/free-icons/graduation-hat" title="graduation hat icons" Graduation hat icons created by nawicon - Flaticon
+href="https://www.flaticon.com/free-icons/iot" title="iot icons" Iot icons created by Freepik - Flaticon
+href="https://www.flaticon.com/free-icons/laptop" title="laptop icons" Laptop icons created by Freepik - Flaticon
+href="https://www.flaticon.com/free-icons/electrical-appliances" title="electrical appliances icons" Electrical appliances icons created by Freepik - Flaticon
+href="https://www.flaticon.com/free-icons/whatsapp" title="whatsapp icons" Whatsapp icons created by Swifticons - Flaticon
+href="https://www.flaticon.com/free-icons/github" title="github icons" Github icons created by pictogramer - Flaticon
+Audio tomado de: https://www.youtube.com/watch?v=A6hDkJEbcuE
